@@ -1,0 +1,34 @@
+{
+  "name": "שוק ההון למתחילים",
+  "short_name": "שוק ההון",
+  "description": "לימוד שוק ההון בעברית: 100 שיעורים אינטראקטיביים עם סימולטורים, 96 נושאים לחזרה מהירה וסימולטור מסחר",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0A0A0B",
+  "theme_color": "#0A0A0B",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
